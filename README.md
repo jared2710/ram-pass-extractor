@@ -48,4 +48,4 @@ The above command will ask for the **filename of the memory image** (again, ensu
 Due to the almost random nature of RAM, it is difficult to identify the exact password. Therefore, a few options will be extracted and shown, and it is up to the analyst to see which one looks right (or just try them all when attempting to unlock the file - on a forensically sound copy of the suspect's hard drive, of course).
 
 ## Contribution
-This code was coded entirely by Jared O'Reilly, a Computer Science Honours student at the University of Pretoria, in 2020. This was done for the COS 783 final assignment, involving password forensics.
+This code was coded entirely by Jared O'Reilly, a Computer Science Honours student at the University of Pretoria, in 2020. This was done for the COS 783 final assignment, involving main memory password forensics.
