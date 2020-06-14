@@ -1,4 +1,4 @@
-# zip-pass-extractor
+# ram-pass-extractor
 A command line tool for Linux built to extract passwords out of memory images for password-archived files.
 
 Absolutely nothing needs to be installed for this to work, as it is a simple bash script and all commands used are built-in to Linux itself (such as strings, grep and echo).
