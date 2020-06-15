@@ -12,6 +12,11 @@ However, after some in-depth experimentation, it was found that the passwords we
 
 Therefore, before the DF investigator unplugs the computer, if they could do a quick RAM copy (using [dd](https://en.wikipedia.org/wiki/Dd_(Unix)) for example), and also note the filename of the locked zip archive (if that is the desired target), they could analyse that RAM image using this code, and hopefully extract the desired password from it.
 
+## Video Demo
+Head over to the following YouTube link to see the video demo of this code:
+
+[COS 783 - Assignment 5](https://youtu.be/bHohC59NFlM)
+
 ## Installation
 
 Installing this just involves cloning the git repo - nothing else is needed! 
