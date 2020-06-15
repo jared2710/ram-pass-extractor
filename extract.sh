@@ -8,7 +8,7 @@ PURPLE='\033[1;35m'
 CYAN='\033[1;36m'
 NC='\033[0m'
 
-echo -e "${YELLOW}zip-pass-extractor${NC}"
+echo -e "${YELLOW}ram-pass-extractor${NC}"
 echo "Extract passwords from an image of main memory!"
 echo "Built for Windows XP SP3 images, and tested on a 1GB main memory image."
 echo "Author: Jared O'Reilly, for COS 783"
