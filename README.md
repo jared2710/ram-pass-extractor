@@ -21,8 +21,8 @@ Head over to the following YouTube link to see the video demo of this code:
 
 Installing this just involves cloning the git repo - nothing else is needed! 
 ```bash
-git clone https://github.com/jared2710/zip-pass-extractor
-cd zip-pass-extractor
+git clone https://github.com/jared2710/ram-pass-extractor
+cd ram-pass-extractor
 ```
 The following built-in Linux commands are used by this bash script, just for reference (and in case your distro doesn't have them for some reason and you need to install them):
 - bash
